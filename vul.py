@@ -1,3 +1,4 @@
+import os
 # Vulnerable code
 
 user_input = "admin'; DROP TABLE users; --"
